@@ -8,7 +8,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
 
-    <title>Laravel</title>
+    <title>Marcações - Cruz Vermelha Portuguesa</title>
 
     <!-- Fonts -->
     <link href="{{mix('css/app.css')}}" rel="stylesheet">
@@ -16,8 +16,8 @@
 
 <body class="antialiased">
     <noscript>
-        <strong>We're sorry but this application doesn't work properly without JavaScript enabled.
-            Please enable it to continue.</strong>
+        <strong>Pedimos desculpa, mas este aplicação não funciona corretamente sem JavaScript.
+            Ative-o para continuar.</strong>
     </noscript>
     <div id="app"></div>
     <script type="text/javascript" src="{{mix('js/app.js')}}"></script>
